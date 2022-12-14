@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/laravel_study",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "hideo",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
